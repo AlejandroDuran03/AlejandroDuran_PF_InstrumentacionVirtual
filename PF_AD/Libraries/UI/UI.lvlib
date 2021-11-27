@@ -87,5 +87,9 @@
 		<Item Name="Wait on Event Sync.vi" Type="VI" URL="../Wait on Event Sync.vi"/>
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
+	<Item Name="Contabilidad" Type="Folder">
+		<Item Name="Solicitar Contabilidad.vi" Type="VI" URL="../Solicitar Contabilidad.vi"/>
+		<Item Name="Reporte.vi" Type="VI" URL="../Reporte.vi"/>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

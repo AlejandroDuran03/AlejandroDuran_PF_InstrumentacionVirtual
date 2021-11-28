@@ -83,6 +83,9 @@
 	</Item>
 	<Item Name="MT VI&apos;s" Type="Folder">
 		<Item Name="Draw Turnos FP.vi" Type="VI" URL="../Draw Turnos FP.vi"/>
+		<Item Name="Lista Servicios.vi" Type="VI" URL="../Lista Servicios.vi"/>
+		<Item Name="MANEJO TURNOS.vi" Type="VI" URL="../MANEJO TURNOS.vi"/>
+		<Item Name="Estatus Servicio.vi" Type="VI" URL="../Estatus Servicio.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

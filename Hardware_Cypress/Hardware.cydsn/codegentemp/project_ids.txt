@@ -1,0 +1,29 @@
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\CorrimientoConBotones.cydsn\CorrimientoConBotones.cyprj|e22a0a68-3bfe-473e-b16a-12f1f3e80215
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|aaa042ab-b8eb-4cda-a23b-727d98ff87e4
+C:\Users\HP\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|3ef389a6-83bc-46a7-8ac1-e77f8e88bc10
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ff1e36cc-39bb-44e6-b3bc-7ced8eb75e1e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5f8e82b4-84a9-42c3-9aba-bafb609b3f90
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|467eb1db-f0e6-43de-a721-ab4bba930837
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Display7segmentosBotones.cydsn\Display7segmentosBotones.cyprj|8b52c835-948c-4c2c-bc83-c8653214d599
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Practica1.cydsn\Practica1.cyprj|48eedc92-2a56-45f9-93e6-49538f2a8a8c
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\ADC_01.cydsn\ADC_01.cyprj|439ffe14-8076-4623-83c9-7de1aa481d0a
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\ADC_02.cydsn\ADC_02.cyprj|62ae1c66-3b2e-4226-a8c0-8b5be5341130
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\ADC_03.cydsn\ADC_03.cyprj|068f7f4e-a2e0-4d03-bdc5-d4a57096113d
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Practica2.cydsn\Practica2.cyprj|91e7821a-d381-4e0e-8a64-1b8c9545b2bd
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\PWM.cydsn\PWM.cyprj|73cd1797-ff6f-449c-b95c-ee8126e74a9c
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\PWM_API.cydsn\PWM_API.cyprj|53a44c6d-efdd-4c81-879b-c67570636483
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\PWMx3.cydsn\PWMx3.cyprj|d4fa443b-e227-4a39-a2a9-9e5aa60bfd1e
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Practica4.cydsn\Practica4.cyprj|6bead593-cce6-419a-9f92-9a86ba5b8e25
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\UART.cydsn\UART.cyprj|43035a62-d892-4190-88e8-d50a99cef1a1
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Serial_Read.cydsn\Serial_Read.cyprj|7eba087f-397c-4eb1-b4b4-99ee469a3dd8
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Serial_ReadDigito.cydsn\Serial_ReadDigito.cyprj|d8e70994-d34a-4f0f-bf0a-8f78d068d3d7
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\SerialPWM.cydsn\SerialPWM.cyprj|e96d74f2-b71e-40e3-8033-51d87b1485ab
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Design01.cydsn\Design01.cyprj|dda64222-1887-426c-8b7c-70f47299ff51
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\labviewSerial\LabviewSerial\LabviewSerial01.cydsn\LabviewSerial01.cyprj|06b26e36-ef85-417c-9121-f96aa823e747
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Examen_DuranMunoz_Parte1_IET601.cydsn\Examen_DuranMunoz_Parte1_IET601.cyprj|89072949-93e6-4237-885a-4f3da0d5e0d1
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Examen_DuranMunoz_IET601_Parte2.cydsn\Examen_DuranMunoz_IET601_Parte2.cyprj|d8c6e658-ca48-4ed9-a5e2-3cfd71ec25b3
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\HMI_Practica3.cydsn\HMI_Practica3.cyprj|49efbff1-e764-4850-942e-61e332c03a4e
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\LabView_HMI_Serial.cydsn\LabView_HMI_Serial.cyprj|7f0b07cb-852c-4e91-be1d-1de8b8e87d8b
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Examen3erParcial_Parte1_DuranMunoz.cydsn\Examen3erParcial_Parte1_DuranMunoz.cyprj|e3d500f8-75c5-4305-8f9b-ec49028b67ce
+C:\Users\HP\Documents\SemestresAnteriores\PSoC Creator\Parcial2\Examen3erParcial Parte2 AlejandroDuran.cydsn\Examen3erParcial Parte2 AlejandroDuran.cyprj|06c915d7-7003-4767-9ff4-d2d99fb8e3a6
+C:\Users\HP\Desktop\AlejandroDuran_PF_InstrumentacionVirtual\Hardware_Cypress\Hardware.cydsn\Hardware.cyprj|928eb420-96b1-4a39-a698-57afa7d99c36

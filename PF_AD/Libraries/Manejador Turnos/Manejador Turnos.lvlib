@@ -19,11 +19,13 @@
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Draw FP Turnos in UI Argument--cluster.ctl" Type="VI" URL="../Draw FP Turnos in UI Argument--cluster.ctl"/>
+				<Item Name="Despachar Argument--cluster.ctl" Type="VI" URL="../Despachar Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Servicio en curso Argument--cluster.ctl" Type="VI" URL="../Servicio en curso Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -33,6 +35,7 @@
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Draw FP Turnos in UI.vi" Type="VI" URL="../Draw FP Turnos in UI.vi"/>
+			<Item Name="Despachar.vi" Type="VI" URL="../Despachar.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -49,6 +52,7 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Servicio en curso.vi" Type="VI" URL="../Servicio en curso.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -84,8 +88,13 @@
 	<Item Name="MT VI&apos;s" Type="Folder">
 		<Item Name="Draw Turnos FP.vi" Type="VI" URL="../Draw Turnos FP.vi"/>
 		<Item Name="Lista Servicios.vi" Type="VI" URL="../Lista Servicios.vi"/>
-		<Item Name="MANEJO TURNOS.vi" Type="VI" URL="../MANEJO TURNOS.vi"/>
 		<Item Name="Estatus Servicio.vi" Type="VI" URL="../Estatus Servicio.vi"/>
+		<Item Name="MANEJO TURNOS.vi" Type="VI" URL="../MANEJO TURNOS.vi"/>
+		<Item Name="Servicio Total.vi" Type="VI" URL="../Servicio Total.vi"/>
+		<Item Name="Servicio Taxi.vi" Type="VI" URL="../Servicio Taxi.vi"/>
+		<Item Name="Servicio Basico.vi" Type="VI" URL="../Servicio Basico.vi"/>
+		<Item Name="Servicio Cera.vi" Type="VI" URL="../Servicio Cera.vi"/>
+		<Item Name="Servicio Motor.vi" Type="VI" URL="../Servicio Motor.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

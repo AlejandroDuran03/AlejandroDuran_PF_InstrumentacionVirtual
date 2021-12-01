@@ -88,6 +88,7 @@
 		<Item Name="Wait on Module Sync.vi" Type="VI" URL="../Wait on Module Sync.vi"/>
 	</Item>
 	<Item Name="Contabilidad" Type="Folder">
+		<Item Name="Revisar Fechas.vi" Type="VI" URL="../Revisar Fechas.vi"/>
 		<Item Name="Solicitar Contabilidad.vi" Type="VI" URL="../Solicitar Contabilidad.vi"/>
 		<Item Name="Reporte.vi" Type="VI" URL="../Reporte.vi"/>
 	</Item>

@@ -23,6 +23,7 @@
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Servicio Estatus Tabla Argument--cluster.ctl" Type="VI" URL="../Servicio Estatus Tabla Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -47,6 +48,7 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Servicio Estatus Tabla.vi" Type="VI" URL="../Servicio Estatus Tabla.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -82,10 +84,9 @@
 	<Item Name="DB Functions" Type="Folder">
 		<Item Name="Create Table.vi" Type="VI" URL="../Create Table.vi"/>
 		<Item Name="Insert Paquete.vi" Type="VI" URL="../Insert Paquete.vi"/>
-		<Item Name="Time to String.vi" Type="VI" URL="../Time to String.vi"/>
-		<Item Name="Revisar Fechas.vi" Type="VI" URL="../Revisar Fechas.vi"/>
 		<Item Name="Insert Servicio Estatus.vi" Type="VI" URL="../Insert Servicio Estatus.vi"/>
 		<Item Name="Read servicio Estatus.vi" Type="VI" URL="../Read servicio Estatus.vi"/>
+		<Item Name="Time to String.vi" Type="VI" URL="../Time to String.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

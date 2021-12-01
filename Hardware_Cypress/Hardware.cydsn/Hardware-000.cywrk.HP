@@ -18,7 +18,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Hardware-000\Hardware\Source Files\main.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Hardware-000\Hardware\TopDesign">
 <ExpandedNodeIds>
 <v>Hardware-000</v>
 <v>Hardware-000\Hardware</v>
@@ -167,7 +167,6 @@
 <v>Hardware-000\Hardware\PSoC 5LP Architecture TRM</v>
 <v>Hardware-000\Hardware\CY8C58LP Family Datasheet</v>
 <v>Hardware-000\Hardware\System Reference Guides</v>
-<v>Hardware-000\Hardware\System Reference Guides\cy_boot_v6_0</v>
 <v>Hardware-000\Hardware\cy_isr_v1_70.pdf</v>
 <v>Hardware-000\Hardware\cy_pins_v2_20</v>
 <v>Hardware-000\Hardware\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
@@ -180,7 +179,6 @@
 <v>Hardware-000\Hardware\PSoC 5LP Architecture TRM</v>
 <v>Hardware-000\Hardware\CY8C58LP Family Datasheet</v>
 <v>Hardware-000\Hardware\System Reference Guides</v>
-<v>Hardware-000\Hardware\System Reference Guides\cy_boot_v6_0</v>
 <v>Hardware-000\Hardware\cy_isr_v1_70.pdf</v>
 <v>Hardware-000\Hardware\cy_pins_v2_20</v>
 <v>Hardware-000\Hardware\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
@@ -196,6 +194,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -203,7 +202,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="956, 380" SelectedTabbedMdiWindow="65aed26d-1f99-4c43-88b6-0a9892b9143d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c2889463-b729-4aa5-a9b9-79860384dd55" /><DocumentWindow Key="C:\Users\HP\Desktop\AlejandroDuran_PF_InstrumentacionVirtual\Hardware_Cypress\Hardware.cydsn\main.c" Guid="65aed26d-1f99-4c43-88b6-0a9892b9143d" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1041, 399" SelectedTabbedMdiWindow="65aed26d-1f99-4c43-88b6-0a9892b9143d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c2889463-b729-4aa5-a9b9-79860384dd55" /><DocumentWindow Key="C:\Users\HP\Desktop\AlejandroDuran_PF_InstrumentacionVirtual\Hardware_Cypress\Hardware.cydsn\main.c" Guid="65aed26d-1f99-4c43-88b6-0a9892b9143d" /><DocumentWindow Key="C:\Users\HP\Desktop\AlejandroDuran_PF_InstrumentacionVirtual\Hardware_Cypress\Hardware.cydsn\TopDesign\TopDesign.cysch" Guid="ef45e189-1ca8-4f86-b3eb-65d0bfb20d03" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

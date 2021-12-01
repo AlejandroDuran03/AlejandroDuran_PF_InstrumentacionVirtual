@@ -84,6 +84,8 @@
 		<Item Name="Insert Paquete.vi" Type="VI" URL="../Insert Paquete.vi"/>
 		<Item Name="Time to String.vi" Type="VI" URL="../Time to String.vi"/>
 		<Item Name="Revisar Fechas.vi" Type="VI" URL="../Revisar Fechas.vi"/>
+		<Item Name="Insert Servicio Estatus.vi" Type="VI" URL="../Insert Servicio Estatus.vi"/>
+		<Item Name="Read servicio Estatus.vi" Type="VI" URL="../Read servicio Estatus.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>

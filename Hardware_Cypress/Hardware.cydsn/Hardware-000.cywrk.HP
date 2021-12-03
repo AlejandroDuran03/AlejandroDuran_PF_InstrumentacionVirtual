@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Hardware-000\Hardware\TopDesign">
+<ExpandedNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\TopDesign</v>
+<v>Hardware-000\Hardware\Hardware.cydwr</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Pins</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Analog</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Clocks</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Interrupts</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\DMA</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\System</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Directives</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Flash Security</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\EEPROM</v>
+<v>Hardware-000\Hardware\Header Files</v>
+<v>Hardware-000\Hardware\Header Files\cyapicallbacks.h</v>
+<v>Hardware-000\Hardware\Source Files</v>
+<v>Hardware-000\Hardware\Source Files\main.c</v>
+<v>Hardware-000\Hardware\Generated_Source</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\TopDesign</v>
+<v>Hardware-000\Hardware\Hardware.cydwr</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Pins</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Analog</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Clocks</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Interrupts</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\DMA</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\System</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Directives</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\Flash Security</v>
+<v>Hardware-000\Hardware\Hardware.cydwr\EEPROM</v>
+<v>Hardware-000\Hardware\Header Files</v>
+<v>Hardware-000\Hardware\Header Files\cyapicallbacks.h</v>
+<v>Hardware-000\Hardware\Source Files</v>
+<v>Hardware-000\Hardware\Source Files\main.c</v>
+<v>Hardware-000\Hardware\Generated_Source</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\Barra</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\Control</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\cy_boot</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\isrUART</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\Serial</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\Serial_IntClock</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>Hardware-000\Hardware\Generated_Source\PSoC5\cydevice.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\TopDesign</v>
+<v>Hardware-000\Hardware\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\TopDesign</v>
+<v>Hardware-000\Hardware\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\CortexM3</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Control.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_PM.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\isrUART.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_BOOT.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_INT.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_IntClock.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_PM.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Hardware.elf</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Hardware.hex</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Hardware.map</v>
+<v>Hardware-000\Hardware\Hardware.gpdsc</v>
+<v>Hardware-000\Hardware\Hardware.rpt</v>
+<v>Hardware-000\Hardware\Hardware_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\CortexM3</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Control.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_PM.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\isrUART.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_BOOT.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_INT.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_IntClock.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Listing Files\Serial_PM.lst</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Hardware.elf</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Hardware.hex</v>
+<v>Hardware-000\Hardware\CortexM3\ARM_GCC_541\Debug\Hardware.map</v>
+<v>Hardware-000\Hardware\Hardware.gpdsc</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\PSoC 5LP Architecture TRM</v>
+<v>Hardware-000\Hardware\CY8C58LP Family Datasheet</v>
+<v>Hardware-000\Hardware\System Reference Guides</v>
+<v>Hardware-000\Hardware\cy_isr_v1_70.pdf</v>
+<v>Hardware-000\Hardware\cy_pins_v2_20</v>
+<v>Hardware-000\Hardware\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Hardware-000\Hardware\CyControlReg_v1_80.pdf</v>
+<v>Hardware-000\Hardware\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Hardware-000</v>
+<v>Hardware-000\Hardware</v>
+<v>Hardware-000\Hardware\PSoC 5LP Architecture TRM</v>
+<v>Hardware-000\Hardware\CY8C58LP Family Datasheet</v>
+<v>Hardware-000\Hardware\System Reference Guides</v>
+<v>Hardware-000\Hardware\cy_isr_v1_70.pdf</v>
+<v>Hardware-000\Hardware\cy_pins_v2_20</v>
+<v>Hardware-000\Hardware\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Hardware-000\Hardware\CyControlReg_v1_80.pdf</v>
+<v>Hardware-000\Hardware\UART_v2_50.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\main.c" />
+<name v=".\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1041, 399" SelectedTabbedMdiWindow="65aed26d-1f99-4c43-88b6-0a9892b9143d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="c2889463-b729-4aa5-a9b9-79860384dd55" /><DocumentWindow Key="C:\Users\HP\Desktop\AlejandroDuran_PF_InstrumentacionVirtual\Hardware_Cypress\Hardware.cydsn\main.c" Guid="65aed26d-1f99-4c43-88b6-0a9892b9143d" /><DocumentWindow Key="C:\Users\HP\Desktop\AlejandroDuran_PF_InstrumentacionVirtual\Hardware_Cypress\Hardware.cydsn\TopDesign\TopDesign.cysch" Guid="ef45e189-1ca8-4f86-b3eb-65d0bfb20d03" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
